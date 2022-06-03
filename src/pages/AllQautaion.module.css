@@ -1,0 +1,32 @@
+.qautaion {
+  margin: 2rem auto;
+  padding: 0.5rem;
+  width: 90%;
+  max-width: 40rem;
+  background: rgb(241, 255, 253);
+  /* border-top: 1px solid gray; */
+}
+
+.qautaion ul {
+  list-style: none;
+  padding: 0rem;
+}
+
+.qautaion li {
+  border-radius: 5px;
+  background: rgb(189, 240, 235);
+  margin: 0.8rem 0;
+  padding: 0.1rem 1rem;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text {
+  font-size: 1.25rem;
+  height: 0.75rem;
+}
+.author {
+  color: gray;
+  font-size: 0.75rem;
+}

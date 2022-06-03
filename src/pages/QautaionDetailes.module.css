@@ -1,0 +1,21 @@
+.input {
+  margin: 3rem auto;
+  width: 90%;
+  max-width: 30rem;
+}
+.header {
+  background: rgb(15, 155, 141);
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.header h2 {
+  margin: 0;
+  color: white;
+}
+
+.content {
+  padding: 1rem;
+  text-align: center;
+  height: 10rem;
+}
